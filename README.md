@@ -9,15 +9,15 @@ I am a Technology Leader, Software Engineer, Speaker, and Lean/Agile Advocate.
 
 ### 🤝 Connect with me:
 
-<div style="height: 25px; padding-bottom: 0.5em;">
-  <a href="//linkedin.com/in/pmgower/"><img src="//raw.githubusercontent.com/pmgower/pmgower/main/images/linkedin.svg" alt="Paul Gower | LinkedIn" /></a>
-  <a href="//twitter.com/paulmgower/"><img src="//raw.githubusercontent.com/pmgower/pmgower/main/images/twitter.svg" alt="Paul Gower | Twitter"/></a>
+<div>
+  <a href="//linkedin.com/in/pmgower/"><img style="height: 25px" src="https://raw.githubusercontent.com/pmgower/pmgower/main/images/linkedin.svg" alt="Paul Gower | LinkedIn" /></a>
+  <a href="//twitter.com/paulmgower/"><img style="height: 25px" src="https://raw.githubusercontent.com/pmgower/pmgower/main/images/twitter.svg" alt="Paul Gower | Twitter" /></a>
+  <a href="//sessionize.com/paul-gower/"><img style="height: 25px" src="https://raw.githubusercontent.com/pmgower/pmgower/main/images/sessionize-logo.svg" alt="Paul Gower | Sessionize" /></a>
 </div>
-<div style="height: 25px; padding-bottom: 0.5em;">
-  <a href="//sessionize.com/paul-gower/"><img src="//raw.githubusercontent.com/pmgower/pmgower/main/images/sessionize-logo.svg" alt="Paul Gower | Sessionize" /></a>
-</div>
-
-- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+<br/>
+<p>
+  💬 If you have any questions/feedback, please do not hesitate to contact me!
+</p>
 
 
 ## 🔭 I’m currently working on
