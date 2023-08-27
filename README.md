@@ -22,8 +22,9 @@ I am a Technology Leader, Software Engineer, Speaker, and Lean/Agile Advocate.
 
 ## 🔭 I’m currently working on
 - Launching my personal website: [paulmgower.com](paulmgower.com)
+  - Includes combining [the articles](https://edgewatertech.wordpress.com/author/pgower/) I wrote for Edgewater
   - Includes combining the articles from [my old blog](//blog.paulgower.me)
-  - Includes combining [the articles](//www.lunamark.com/articles) from the Lunamark website
+  - Includes combining [the articles](//www.lunamark.com/articles) I wrote for Lunamark
   - Includes porting over all my [conference speaking history](//www.lunamark.com/speaking.html) from the Lunamark website
 - Refining my conference talk on rest.  I have three working titles: 
   - [Rest: It Is Critical to the Health of Your Organization](https://sessionize.com/s/paul-gower/rest-it-is-critical-to-the-health-of-your-organiza/50228)
