@@ -1,5 +1,5 @@
 <h2 style="text-align: center">
-Hi there 👋, I'm <a href="//paulmgower.com">Paul</a>
+Hi there 👋, I'm Paul
 </h2>
 
 <h3 style="text-align: center">
