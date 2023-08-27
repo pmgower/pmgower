@@ -1,16 +1,35 @@
-### Hi there 👋
+<h2 style="text-align: center">
+Hi there 👋, I'm <a href="//paulmgower.com">Paul</a>
+</h2>
 
-<!--
-**pmgower/pmgower** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 style="text-align: center">
+I am a Technology Leader, Software Engineer, Speaker, and Lean/Agile Advocate. 
+</h3>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🤝 Connect with me:
+
+<div style="height: 25px; padding-bottom: 0.5em;">
+  <a href="//linkedin.com/in/pmgower/"><img src="//raw.githubusercontent.com/pmgower/pmgower/main/images/linkedin.svg" alt="Paul Gower | LinkedIn" /></a>
+  <a href="//twitter.com/paulmgower/"><img src="//raw.githubusercontent.com/pmgower/pmgower/main/images/twitter.svg" alt="Paul Gower | Twitter"/></a>
+</div>
+<div style="height: 25px; padding-bottom: 0.5em;">
+  <a href="//sessionize.com/paul-gower/"><img src="//raw.githubusercontent.com/pmgower/pmgower/main/images/sessionize-logo.svg" alt="Paul Gower | Sessionize" /></a>
+</div>
+
+- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+
+
+## 🔭 I’m currently working on
+- Refining my conference talk on rest.  I have three working titles: 
+  - [Rest: It Is Critical to the Health of Your Organization](https://sessionize.com/s/paul-gower/rest-it-is-critical-to-the-health-of-your-organiza/50228)
+  - [Climbing the Ladder with Balance: Rethinking Overwork in the Era of the Great Resignation](//sessionize.com/s/paul-gower/climbing-the-ladder-with-balance-rethinking-overwo/75714)
+  - [Redefining Success: Rest, Resilience, and the Great Resignation](//sessionize.com/s/paul-gower/redefining-success-rest-resilience-and-the-great-r/75713)
+- An iOS app and supporting Rails API that captures images for marketing purposes. (**more details later once it's ready to beta test**)
+
+## 🌱 I’m currently learning 
+- Swift
+- Swift UI
+
+## 📖 I'm currently reading 
+- [Happier Now by Nataly Kogan](https://www.happier.com/book/)
