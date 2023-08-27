@@ -1,5 +1,5 @@
 <h2 style="text-align: center">
-Hi there 👋, I'm Paul
+Hi there 👋, I'm <a href="//paulmgower.com" target="_blank">Paul</a>!
 </h2>
 
 <h3 style="text-align: center">
@@ -21,6 +21,10 @@ I am a Technology Leader, Software Engineer, Speaker, and Lean/Agile Advocate.
 
 
 ## 🔭 I’m currently working on
+- Launching my personal website: [paulmgower.com](paulmgower.com)
+  - Includes combining the articles from [my old blog](//blog.paulgower.me)
+  - Includes combining [the articles](//www.lunamark.com/articles) from the Lunamark website
+  - Includes porting over all my [conference speaking history](//www.lunamark.com/speaking.html) from the Lunamark website
 - Refining my conference talk on rest.  I have three working titles: 
   - [Rest: It Is Critical to the Health of Your Organization](https://sessionize.com/s/paul-gower/rest-it-is-critical-to-the-health-of-your-organiza/50228)
   - [Climbing the Ladder with Balance: Rethinking Overwork in the Era of the Great Resignation](//sessionize.com/s/paul-gower/climbing-the-ladder-with-balance-rethinking-overwo/75714)
