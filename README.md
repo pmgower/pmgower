@@ -38,3 +38,4 @@ I am a Technology Leader, Software Engineer, Speaker, and Lean/Agile Advocate.
 
 ## 📖 I'm currently reading 
 - [Happier Now by Nataly Kogan](https://www.happier.com/book/)
+![](https://hit.yhype.me/github/profile?account_id=1250157)
